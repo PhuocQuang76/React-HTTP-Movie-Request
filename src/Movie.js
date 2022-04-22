@@ -1,4 +1,4 @@
-import classes from './Movie.mdule.css'
+import classes from './components/Movie.mdule.css'
 import React from "react";
 
 const Movie = (props) => {

@@ -1,5 +1,5 @@
 import React, {Fragment} from "react";
-import Movie from "./Movie";
+import Movie from "../Movie";
 import classes from './MoviesList.module.css';
 
 const MoviesList = (props) => {
